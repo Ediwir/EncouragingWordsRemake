@@ -1,0 +1,28 @@
+{
+    "name": "EncouragingWordsRemake",
+    "title": "Encouraging Words Remake",
+    "description": "adds special effects and actions for the reworked version of Encouraging Words requested by Lionhead Gaming",
+    "author": "Archvillain Ediwir",
+    "version": "1.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "url": "https://github.com/Ediwir/EncouragingWordsRemake",
+  "manifest": "https://raw.githubusercontent.com/Ediwir/EncouragingWordsRemake/master/module.json",
+  "download": "https://github.com/Ediwir/EncouragingWordsRemake/archive/refs/heads/main.zip",
+    "packs": [{
+        "label": "Encouraging Words Remake",
+        "name": "encouraging-words-remake",
+        "path": "./packs/encouraging-words-remake.db",
+        "system": "pf2e",
+        "package": "EncouragingWordsRemake",
+        "private": false,
+        "type": "Item"
+    }],
+    "system": [
+        "pf2e"
+    ]
+}
